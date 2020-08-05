@@ -1,8 +1,8 @@
 # Smart-Queuing-System-On-Edge
 
-[![IMAGE ALT TEXT HERE](https://github.com/Rishit-dagli/Smart-Queuing-System-On-Edge/blob/master/images/reatil_cover.JPG)](https://www.youtube.com/watch?v=W-DWBYhrwj0)
+[![IMAGE ALT TEXT HERE](https://github.com/Rishit-dagli/Smart-Queuing-System-On-Edge/blob/master/images/reatil_cover.JPG)](https://youtu.be/aOQM5o09jYQ)
 
-Click the image above to see a video of the demo or use the link [here](https://www.youtube.com/watch?v=W-DWBYhrwj0)
+Click the image above to see a video of the demo or use the link [here](https://youtu.be/aOQM5o09jYQ)
 
 ## Table of Contents
 
